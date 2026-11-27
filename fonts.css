@@ -1,0 +1,144 @@
+/* frank-ruhl-libre-hebrew-700-normal */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/frank-ruhl-libre-hebrew-700-normal.woff2) format('woff2');
+}
+/* frank-ruhl-libre-latin-700-normal */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/frank-ruhl-libre-latin-700-normal.woff2) format('woff2');
+}
+/* frank-ruhl-libre-hebrew-900-normal */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(fonts/frank-ruhl-libre-hebrew-900-normal.woff2) format('woff2');
+}
+/* frank-ruhl-libre-latin-900-normal */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(fonts/frank-ruhl-libre-latin-900-normal.woff2) format('woff2');
+}
+/* assistant-hebrew-400-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/assistant-hebrew-400-normal.woff2) format('woff2');
+}
+/* assistant-latin-400-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/assistant-latin-400-normal.woff2) format('woff2');
+}
+/* assistant-hebrew-600-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/assistant-hebrew-600-normal.woff2) format('woff2');
+}
+/* assistant-latin-600-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/assistant-latin-600-normal.woff2) format('woff2');
+}
+/* assistant-hebrew-700-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/assistant-hebrew-700-normal.woff2) format('woff2');
+}
+/* assistant-latin-700-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/assistant-latin-700-normal.woff2) format('woff2');
+}
+/* assistant-hebrew-800-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(fonts/assistant-hebrew-800-normal.woff2) format('woff2');
+}
+/* assistant-latin-800-normal */
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(fonts/assistant-latin-800-normal.woff2) format('woff2');
+}
+/* amatic-sc-hebrew-700-normal */
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/amatic-sc-hebrew-700-normal.woff2) format('woff2');
+}
+/* amatic-sc-latin-700-normal */
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/amatic-sc-latin-700-normal.woff2) format('woff2');
+}
+/* secular-one-hebrew-400-normal */
+@font-face {
+  font-family: 'Secular One';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/secular-one-hebrew-400-normal.woff2) format('woff2');
+}
+/* secular-one-latin-400-normal */
+@font-face {
+  font-family: 'Secular One';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/secular-one-latin-400-normal.woff2) format('woff2');
+}
+/* karantina-hebrew-700-normal */
+@font-face {
+  font-family: 'Karantina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/karantina-hebrew-700-normal.woff2) format('woff2');
+}
+/* karantina-latin-700-normal */
+@font-face {
+  font-family: 'Karantina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/karantina-latin-700-normal.woff2) format('woff2');
+}
